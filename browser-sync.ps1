@@ -1,0 +1,1 @@
+browser-sync start --server --serveStatic --files "*.html, css/style.css"
